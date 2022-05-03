@@ -39,4 +39,8 @@ class_dict: {'bag': 1, 'dress': 2, 'hat': 3, 'jacket': 4, 'pants': 5, 'shirt': 6
 
 Detected_classes: [8, 6, 1, 6]
 
+![image](https://user-images.githubusercontent.com/46878296/166500729-6c8ab0bc-c1cb-4189-9926-12648b4016f4.png)
+
+
+![image](https://user-images.githubusercontent.com/46878296/166500860-c63ad5fc-1fbe-4dfa-ad82-a78b0103977f.png)
 
