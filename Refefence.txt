@@ -1,0 +1,8 @@
+https://drive.google.com/file/d/1zdwgVv3G_z9P1z8hPo9gUG4GuZHrcimK/view
+
+
+
+Reference: Dataset:https://www.linkedin.com/pulse/detectron2-object-detection-meet-gandhi
+https://storage.googleapis.com/openimages/web/index.html
+
+Annotation: https://github.com/wkentaro/labelme

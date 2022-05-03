@@ -1,0 +1,37 @@
+1. Open the repo in vs code
+2. Create the conda env  using conda create -n pytorchwebapi python=3.6
+3. Go to below page & check compatible version
+ https://pytorch.org/get-started/previous-versions/
+ https://detectron2.readthedocs.io/en/latest/tutorials/install.html
+
+Check matching cpu version
+
+4.conda install pytorch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 cpuonly -c pytorch
+5. python -m pip install detectron2 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cpu/torch1.10/index.html
+
+
+If 5th line is not working.
+
+6. Go to official detectron2 git hub & download
+
+
+
+
+
+
+7. Copy the detectron2 folder into this project( web api) folder 
+8. Go to python shell  & check import detectron2 working
+
+9. Now run the client app and install dependencies.
+
+pip install opencv-python
+pip install fvcore
+pip install cloudpickle
+pip install omegaconf
+pip install pycocotools-windows
+pip install flask
+pip install flask_cors
+
+
+How to Inference:
+https://detectron2.readthedocs.io/en/latest/tutorials/getting_started.html
